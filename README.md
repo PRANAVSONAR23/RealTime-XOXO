@@ -1,16 +1,6 @@
-<!-- Preview Banner -->
-<p align="center">
-  <img src="./screenshots//preview.png" alt="Real-Time Tic Tac Toe Preview" width="100%" />
-</p>
 
-<h1 align="center">🎮 Realtime Tic Tac Toe</h1>
-<p align="center">No login required • Open Source • React, TypeScript, Express, Socket.io, Tailwind CSS</p>
 
----
-
-A fast-paced, real-time multiplayer Tic Tac Toe game. No login or signup — enter your name and start playing instantly with friends. Built using modern web technologies with a clean UI and responsive design.
-Perfect for learning how to implement WebSockets and real-time communication in web apps.
-
+A fast-paced, real-time multiplayer Tic Tac Toe game. No login or signup — enter your name and start playing instantly with friends
 
 ## ✨ Features
 
@@ -18,12 +8,7 @@ Perfect for learning how to implement WebSockets and real-time communication in 
 - 🧩 Simple room creation and joining system.
 - 💬 In-game **chat** support.
 - 🧑‍🎨 Support player nickname customization.
-- 😄 Include emoji reactions during gameplay.
-- 🎨 Beautiful UI with **Tailwind CSS**.
-- 🧠 Built with **React**, **TypeScript**, **Node.js**, and **Express**.
 - 🔒 No authentication or login required.
-- 📱 Responsive design for desktop and mobile.
-- 🌐 Open-source and self-hostable.
 
 ## 🚀 Live Preview
 
@@ -33,17 +18,17 @@ Experience the game instantly without any signup or installation:
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="./screenshots//screenshot1.png" alt="Game Lobby" width="600"/>
+  <img src="./screenshots//Screenshot1.png" alt="Game Lobby" width="600"/>
   <br />
   <em>Lobby - Create or Join Room</em>
 </p>
 <p align="center">
-  <img src="./screenshots//screenshot2.png" alt="Game Lobby" width="600"/>
+  <img src="./screenshots//Screenshot2.png" alt="Game Lobby" width="600"/>
   <br />
   <em>Room - After Joining a Room</em>
 </p>
 <p align="center">
-  <img src="./screenshots//screenshot3.png" alt="In Game UI" width="600"/>
+  <img src="./screenshots//Screenshot3.png" alt="In Game UI" width="600"/>
   <br />
   <em>Game Board - Real-time Match + Chat</em>
 </p>
