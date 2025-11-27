@@ -45,7 +45,7 @@ Experience the game instantly without any signup or installation:
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 💻 Tech Stack
+## Server Architecture
 <p align="center">
   <img src="./screenshots//logic_diagram.png" alt="Architecture" width="600"/>
   <br />
