@@ -14,7 +14,7 @@ A fast-paced, real-time multiplayer Tic Tac Toe game. No login or signup — ent
 
 Experience the game instantly without any signup or installation:
 
-🎮 **Play the game live →** []()
+🎮 **Play the game live →** [https://realtime-xoxo.onrender.com](https://realtime-xoxo.onrender.com)
 
 ## 🖼️ Screenshots
 <p align="center">
