@@ -18,17 +18,17 @@ Experience the game instantly without any signup or installation:
 
 ## 🖼️ Screenshots
 <p align="center">
-  <img src="./screenshots//Screenshot1.png" alt="Game Lobby" width="600"/>
+  <img src="./screenshots/screenshot1.png" alt="Game Lobby" width="600"/>
   <br />
   <em>Lobby - Create or Join Room</em>
 </p>
 <p align="center">
-  <img src="./screenshots//Screenshot2.png" alt="Game Lobby" width="600"/>
+  <img src="./screenshots/screenshot2.png" alt="Game Lobby" width="600"/>
   <br />
   <em>Room - After Joining a Room</em>
 </p>
 <p align="center">
-  <img src="./screenshots//Screenshot3.png" alt="In Game UI" width="600"/>
+  <img src="./screenshots/screenshot3.png" alt="In Game UI" width="600"/>
   <br />
   <em>Game Board - Real-time Match + Chat</em>
 </p>
