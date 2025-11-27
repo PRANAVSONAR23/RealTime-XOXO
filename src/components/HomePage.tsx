@@ -1,4 +1,4 @@
-import { GamepadIcon, MessageCircle, Sparkles, Users, Zap } from "lucide-react";
+import {MessageCircle, Users, Zap } from "lucide-react";
 import React from "react";
 import GameJoinForm from "./GameJoinForm";
 
