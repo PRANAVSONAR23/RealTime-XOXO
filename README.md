@@ -44,6 +44,14 @@ Experience the game instantly without any signup or installation:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="./screenshots//logic_diagram.png" alt="Architecture" width="600"/>
+  <br />
+  <em>Server Architecture</em>
+</p>
+
 ## ⚙️ Installation
 
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page.
